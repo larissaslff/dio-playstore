@@ -1,0 +1,15 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  margin-top: 50px;
+}
+
+.footer-container > footer > hr {
+  color: gray;
+}
+
+.footer-container > footer > p {
+  color: grey;
+}
